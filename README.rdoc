@@ -1,5 +1,7 @@
 == README
 
+Visit Apllication Here: https://pure-beach-30818.herokuapp.com/ (Deployed on Heroku) 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
